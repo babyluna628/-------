@@ -11,4 +11,4 @@
   - 캐러셀
 - 깃으로 관리
 - 깃허브 페이지 사용햐서 배포(deploy)함
-  [배포] (https://babyluna628.github.io/BS5-Tour/)
+  [배포] (https://babyluna628.github.io/papajohns/)
